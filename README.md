@@ -99,7 +99,7 @@ ai-notes-summarizer/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/MhamzaShahzad535/ai-notes-summarizer.git
 cd ai-notes-summarizer
 ```
 
@@ -272,3 +272,4 @@ Possible future improvements include:
 ## Author
 
 Muhammad Hamza Shahzad
+
