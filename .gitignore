@@ -4,3 +4,4 @@ __pycache__/
 .env
 notes.db
 notes_report.pdf
+ai-notes-summarizer/
